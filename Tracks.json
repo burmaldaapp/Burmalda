@@ -52,5 +52,11 @@
     "title": "Я вчера помыл один банан",
     "artist": "@0_0_mems_0_0",
     "duration": 0
+  },
+  {
+    "id": "song11",
+    "title": "Музыка на весь хаммам",
+    "artist": "BurmaldaFM",
+    "duration": 0
   }
 ]
